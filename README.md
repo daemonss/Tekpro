@@ -1,1 +1,1 @@
-Minggu 6, 20 Maret 2025 (3 Defensive Programming)
+Minggu 7, 27 Maret 2025 (Kasus Cohesian dan Coupling/ CBO dan LCOM)
