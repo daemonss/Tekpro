@@ -1,1 +1,1 @@
-Minggu 9, 8 May 2025 (Junit Test Driven Development)
+Minggu 11, 29 May 2025 (Design Pattern)
